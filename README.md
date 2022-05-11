@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=nichujie&show_icons=true&include_all_commits=true" />
+    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=nichujie&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichujie&layout=compact&langs_count=7&exclude_repo=nichujie.github.io,link_up,frc6494.github.io&count_private=true" />
